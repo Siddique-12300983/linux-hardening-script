@@ -1,0 +1,10 @@
+# Editor / OS
+*.swp
+.vscode/
+.idea/
+.DS_Store
+
+# Script output / local notes
+*.log
+*.bak
+CLAUDE.local.md
